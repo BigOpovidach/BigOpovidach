@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BigOpovidach
 - 👀 I’m interested in Learning C and drinking beer
-- ⚡ Fun fact: beet
+- ⚡ Fun fact: beer
 
 <!---
 BigOpovidach/BigOpovidach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
