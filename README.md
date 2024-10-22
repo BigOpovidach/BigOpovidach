@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BigOpovidach
-- 👀 I’m interested in Learning C and drinking beer
+- 👀 I’m interested in drinking beer
 - ⚡ Fun fact: beer
 
 <!---
